@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<verifylog operation="Verify" name="User Mode" structure="Macintosh HD:Users:miyako:Desktop:H.4dbase:Components:User Mode.4dbase:User Mode.4DB" data="Macintosh HD:Users:miyako:Desktop:H.4dbase:Components:User Mode.4dbase:User Mode.4DD" os="Mac OS X (10.6.8)">
+<start_timer time="2012-02-28T05:40:44+09:00"/>
+<step title="メンテナンスモードでデータベースを開いています">
+</step>
+<step title="ストラクチャの内部データベースを検証">
+	<step title="セグメント 1 のビットテーブルをチェック">
+	</step>
+	<step title="セグメント 65 のビットテーブルをチェック">
+	</step>
+	<step title="自動シーケンス番号定義をチェック中">
+	</step>
+	<step title="削除された自動シーケンス番号定義の連鎖リストをチェック中">
+	</step>
+	<step title="データテーブル定義をチェック中">
+	</step>
+	<step title="削除されたテーブル定義の連鎖リストをチェック中">
+	</step>
+	<step title="インデックス定義をチェック中">
+	</step>
+	<step title="削除されたインデックス定義の連鎖リストをチェック中">
+	</step>
+	<step title="データテーブルをロード中">
+		<step title="データテーブルヘッダをチェック中">
+		</step>
+		<step title="削除されたデータテーブルヘッダの連鎖リストをチェック中">
+		</step>
+	</step>
+	<step title="テーブル Resources のBLOBをチェック中">
+	</step>
+	<step title="テーブル Resources の削除されたBLOBのリストをチェック中">
+	</step>
+	<step title="テーブル Resources のレコードをチェック中
+">
+	</step>
+	<step title="テーブル Resources の削除されたレコードのリストをチェック中">
+	</step>
+	<step title="テーブル [Table#2] のBLOBをチェック中">
+	</step>
+	<step title="テーブル [Table#2] の削除されたBLOBのリストをチェック中">
+	</step>
+	<step title="テーブル [Table#2] のレコードをチェック中
+">
+	</step>
+	<step title="テーブル [Table#2] の削除されたレコードのリストをチェック中">
+	</step>
+	<step title="インデックス B-tree インデックス0  kind (TYPE only) を検証中">
+		<step title="B-tree インデックス0  kind (TYPE only) のインデックスページアドレスをチェック中">
+		</step>
+		<step title="B-tree インデックス0  kind (TYPE only) インデックスページをチェック中">
+		</step>
+	</step>
+	<step title="インデックス B-tree インデックス1  stamp (stamp) を検証中">
+		<step title="B-tree インデックス1  stamp (stamp) のインデックスページアドレスをチェック中">
+		</step>
+		<step title="B-tree インデックス1  stamp (stamp) インデックスページをチェック中">
+		</step>
+	</step>
+	<step title="インデックス B-tree インデックス2  kind , id (TYPE and ID) を検証中">
+		<step title="B-tree インデックス2  kind , id (TYPE and ID) のインデックスページアドレスをチェック中">
+		</step>
+		<step title="B-tree インデックス2  kind , id (TYPE and ID) インデックスページをチェック中">
+		</step>
+	</step>
+</step>
+<step title="データベースメソッドをチェック">
+</step>
+<step title="トリガメソッドをチェック">
+</step>
+<step title="プロジェクトメソッドをチェック">
+	<step title="User_Get_window">
+		<info>User_Get_window : 15 lines</info>
+	</step>
+	<step title="User_Get_process">
+		<info>User_Get_process : 17 lines</info>
+	</step>
+	<step title="Menu_mode">
+		<info>Menu_mode : 18 lines</info>
+	</step>
+	<step title="User_Install_user_mode">
+		<info>User_Install_user_mode : 27 lines</info>
+	</step>
+	<step title="Menu_tool">
+		<info>Menu_tool : 18 lines</info>
+	</step>
+	<step title="Menu_action_tool">
+		<info>Menu_action_tool : 14 lines</info>
+	</step>
+	<step title="Menu_file">
+		<info>Menu_file : 69 lines</info>
+	</step>
+	<step title="Menu_action_file">
+		<info>Menu_action_file : 30 lines</info>
+	</step>
+	<step title="Menu_record">
+		<info>Menu_record : 67 lines</info>
+	</step>
+	<step title="Menu_action_record">
+		<info>Menu_action_record : 58 lines</info>
+	</step>
+	<step title="Menu_edit">
+		<info>Menu_edit : 44 lines</info>
+	</step>
+	<step title="User_Get_table_names">
+		<info>User_Get_table_names : 29 lines</info>
+	</step>
+	<step title="Menu_action_table">
+		<info>Menu_action_table : 11 lines</info>
+	</step>
+	<step title="User_Get_field_names">
+		<info>User_Get_field_names : 19 lines</info>
+	</step>
+	<step title="User_Get_first_table_number">
+		<info>User_Get_first_table_number : 13 lines</info>
+	</step>
+	<step title="User_Get_form_names">
+		<info>User_Get_form_names : 91 lines</info>
+	</step>
+	<info>16 project methods</info>
+</step>
+<step title="プロジェクトフォームをチェック">
+	<step title="Table List">
+		<step title="Table List">
+			<info>Table List : 31 lines</info>
+		</step>
+		<step title="Table List.Page1.Button (Button)">
+			<info>Table List.Page1.Button (Button) : 5 lines</info>
+		</step>
+	</step>
+	<info>1 project forms</info>
+</step>
+<step title="テーブルフォームをチェック">
+	<step title="[Table_1].Input">
+		<step title="[Table_1].Input.Page1.vRecNum (vRecNum)">
+			<info>[Table_1].Input.Page1.vRecNum (vRecNum) : 5 lines</info>
+		</step>
+	</step>
+	<step title="[Table_1].Output">
+	</step>
+	<step title="[Table_1].Form1">
+		<step title="[Table_1].Form1.Page1.bShowAll (bShowAll)">
+			<info>[Table_1].Form1.Page1.bShowAll (bShowAll) : 1 lines</info>
+		</step>
+		<step title="[Table_1].Form1.Page1.bShowSubset (bShowSubset)">
+			<info>[Table_1].Form1.Page1.bShowSubset (bShowSubset) : 1 lines</info>
+		</step>
+		<step title="[Table_1].Form1.Page1.bQuery (bQuery)">
+			<info>[Table_1].Form1.Page1.bQuery (bQuery) : 1 lines</info>
+		</step>
+		<step title="[Table_1].Form1.Page1.bOrderBy (bOrderBy)">
+			<info>[Table_1].Form1.Page1.bOrderBy (bOrderBy) : 1 lines</info>
+		</step>
+		<step title="[Table_1].Form1.Page1.bReport (bReport)">
+			<info>[Table_1].Form1.Page1.bReport (bReport) : 1 lines</info>
+		</step>
+		<step title="[Table_1].Form1.Page1.bLabels (bLabels)">
+			<info>[Table_1].Form1.Page1.bLabels (bLabels) : 1 lines</info>
+		</step>
+		<step title="[Table_1].Form1.Page1.bPrint (bPrint)">
+			<info>[Table_1].Form1.Page1.bPrint (bPrint) : 1 lines</info>
+		</step>
+		<step title="[Table_1].Form1.Page1.bGraph (bGraph)">
+			<info>[Table_1].Form1.Page1.bGraph (bGraph) : 1 lines</info>
+		</step>
+	</step>
+	<step title="[Table_2].Form1">
+		<step title="[Table_2].Form1.Page1.bShowAll (bShowAll)">
+			<info>[Table_2].Form1.Page1.bShowAll (bShowAll) : 1 lines</info>
+		</step>
+		<step title="[Table_2].Form1.Page1.bShowSubset (bShowSubset)">
+			<info>[Table_2].Form1.Page1.bShowSubset (bShowSubset) : 1 lines</info>
+		</step>
+		<step title="[Table_2].Form1.Page1.bQuery (bQuery)">
+			<info>[Table_2].Form1.Page1.bQuery (bQuery) : 1 lines</info>
+		</step>
+		<step title="[Table_2].Form1.Page1.bOrderBy (bOrderBy)">
+			<info>[Table_2].Form1.Page1.bOrderBy (bOrderBy) : 1 lines</info>
+		</step>
+		<step title="[Table_2].Form1.Page1.bReport (bReport)">
+			<info>[Table_2].Form1.Page1.bReport (bReport) : 1 lines</info>
+		</step>
+		<step title="[Table_2].Form1.Page1.bLabels (bLabels)">
+			<info>[Table_2].Form1.Page1.bLabels (bLabels) : 1 lines</info>
+		</step>
+		<step title="[Table_2].Form1.Page1.bPrint (bPrint)">
+			<info>[Table_2].Form1.Page1.bPrint (bPrint) : 1 lines</info>
+		</step>
+		<step title="[Table_2].Form1.Page1.bGraph (bGraph)">
+			<info>[Table_2].Form1.Page1.bGraph (bGraph) : 1 lines</info>
+		</step>
+	</step>
+	<info>4 table forms</info>
+</step>
+<step title="ユーザ＆グループ情報をチェック">
+</step>
+<step title="ヘルプTipsをチェック">
+</step>
+<step title="エクスプローラのフォルダをチェック">
+	<step title="ゴミ箱">
+	</step>
+	<step title="デフォルトフォルダ">
+	</step>
+	<step title="デフォルトテーブル">
+	</step>
+	<step title="デフォルトフォーム">
+	</step>
+	<step title="デフォルトプロジェクトメソッド">
+	</step>
+</step>
+<step title="メニューバーとメニューをチェック">
+</step>
+<step title="リストをチェック">
+</step>
+<step title="リンクのないメソッドをチェック">
+</step>
+<stop_timer time="2012-02-28T05:40:44+09:00" success="true" user_canceled="false"/>
+</verifylog>
