@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="LogStyleSheet.xsl"?>
+<verifylog operation="Build" name="User Mode" structure="C:\cygwin64\home\lutz.epperlein\Projekte\iNG\CompsV17\4d-tips-virtual-user-mode\virtual-user-mode\VirtualUserMode.4dbase\Components\User Mode.4dbase\User Mode.4DB" data="" os="Windows 10 or greater, 64-bit">
+<start_timer time="2018-09-18T14:00:42+02:00"/>
+<stop_timer time="2018-09-18T14:00:45+02:00" success="true" user_canceled="false"/>
+<step title="Building component">
+<step title="Starte Kompilierung [2018-09-18T14:00:42]"></step>
+<step title="Start &apos;Kopieren der Dateien&apos; : C:\cygwin64\home\lutz.epperlein\Projekte\iNG\CompsV17\4d-tips-virtual-user-mode\virtual-user-mode\VirtualUserMode.4dbase\Components\User Mode_Build\Components\User Mode.4dbase\User Mode.4DC"></step>
+<step title="Ende &apos;Kopieren der Dateien&apos; : C:\cygwin64\home\lutz.epperlein\Projekte\iNG\CompsV17\4d-tips-virtual-user-mode\virtual-user-mode\VirtualUserMode.4dbase\Components\User Mode_Build\Components\User Mode.4dbase\User Mode.4DC"></step>
+<step title="Ende Kompilierung [2018-09-18T14:00:45]"></step>
+</step>
+</verifylog>

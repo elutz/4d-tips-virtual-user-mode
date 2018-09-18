@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<BuildApplicationLog>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Component</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Starte Kompilierung [2018-09-18T14:00:42]</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Start "Kopieren der Dateien" : C:\cygwin64\home\lutz.epperlein\Projekte\iNG\CompsV17\4d-tips-virtual-user-mode\virtual-user-mode\VirtualUserMode.4dbase\Components\User Mode_Build\Components\User Mode.4dbase\User Mode.4DC</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Ende "Kopieren der Dateien" : C:\cygwin64\home\lutz.epperlein\Projekte\iNG\CompsV17\4d-tips-virtual-user-mode\virtual-user-mode\VirtualUserMode.4dbase\Components\User Mode_Build\Components\User Mode.4dbase\User Mode.4DC</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Component</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Ende Kompilierung [2018-09-18T14:00:45]</Message>
+  </Log>
+
+</BuildApplicationLog>
